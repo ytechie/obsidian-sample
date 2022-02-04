@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "2540879d9b24c2e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "407518c21130e103",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "People/Tracy Pickens.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9773c4f69f2fcc0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19788b2752ef9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ed483e81418856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7f1001d7163c676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d52bba19eb403805",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d35b715bbbab864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441ca2e2d613069f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Tracy Pickens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "407518c21130e103",
+  "lastOpenFiles": [
+    "People/Tracy Pickens.md",
+    "Project Falcon.md",
+    "Backlog.md",
+    "People/Bill Smith.md",
+    "Daily/2022-02-03_Thu.md",
+    "2022-02-03.md",
+    "Tech Topics/Linux.md"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD_ddd",
+  "folder": "Daily",
+  "template": "zTemplates/Daily note",
+  "autorun": true
+}
