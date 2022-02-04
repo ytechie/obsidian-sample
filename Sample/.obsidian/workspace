@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Tracy Pickens.md",
+            "file": "Daily/2022-02-03_Thu.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Tracy Pickens.md",
+                "file": "Daily/2022-02-03_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "407518c21130e103",
   "lastOpenFiles": [
-    "People/Tracy Pickens.md",
+    "Daily/2022-02-03_Thu.md",
     "Project Falcon.md",
     "Backlog.md",
+    "Tech Topics/Linux.md",
     "People/Bill Smith.md",
-    "Daily/2022-02-03_Thu.md",
-    "2022-02-03.md",
-    "Tech Topics/Linux.md"
+    "People/Tracy Pickens.md",
+    "2022-02-03.md"
   ]
 }
